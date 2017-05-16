@@ -1,4 +1,4 @@
-# W06 Chat Example
+# Simple online chat app example
 
 A simple chat demo using node.js, express, and socket.io
 
@@ -26,4 +26,3 @@ http://socket.io/get-started/chat/
 https://github.com/socketio/socket.io
 
 http://socket.io/
-
